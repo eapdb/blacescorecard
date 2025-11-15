@@ -1,2 +1,4 @@
 # blacescorecard
 平衡計分卡
+
+![示意圖](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoLWjan8qKXT88iNVeuWpdvRp61TAtzQ5L1DcUmHGBpxXMtcRQrM-y5TJ1IRuCL1B3gAESoxR5KU4yzTmzpY_iCZA6ris6e0YdbsEUmOsLR4bERxP4tcauqgqwJBBP_oDQS5nldLmmVrpY5iTq9aeEu9j8Rih0vxjMlvJ628Eb5xpKUiqP5HGro52hyphenhyphen9Bg/w640-h352/2025-11-15_223735.png)
